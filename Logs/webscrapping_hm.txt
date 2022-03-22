@@ -1,0 +1,12 @@
+DEBUG:root:O valor da variavel x eh 10
+INFO:root:Essa eh a iteracao de numero 
+WARNING:root:Esse ponto do codigo deve ser melhorado
+2022-03-20 21:46:40,031 - DEBUG - root - O valor da variavel x eh 10
+2022-03-20 21:46:40,032 - INFO - root - Essa eh a iteracao de numero 
+2022-03-20 21:46:40,032 - WARNING - root - Esse ponto do codigo deve ser melhorado
+2022-03-20 21:50:25 - DEBUG - fabiana - O valor da variavel x eh 10
+2022-03-20 21:50:25 - INFO - fabiana - Essa eh a iteracao de numero 
+2022-03-20 21:50:25 - WARNING - fabiana - Esse ponto do codigo deve ser melhorado
+2022-03-20 21:54:31 - DEBUG - webscrapping_HM - O valor da variavel x eh 10
+2022-03-20 21:54:31 - INFO - webscrapping_HM - Essa eh a iteracao de numero 
+2022-03-20 21:54:31 - WARNING - webscrapping_HM - Esse ponto do codigo deve ser melhorado
