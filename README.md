@@ -13,7 +13,8 @@ The Star Jeans company is owned by two Brazilian friends and business partners. 
 However, even with the entry product and audience defined, the two partners lack experience in this fashion market and therefore don't know how to define basic things like price, types/models of pants, and the necessary material for the manufacture.
 Thus, the two partners hired a Data Science consultancy to answer the following questions:
 * What is the best selling price for the pants? 
-* How many types of pants and their colors for the initial product? 3. What raw materials are needed to make the pants?
+* How many types of pants and their colors for the initial product? 
+* What raw materials are needed to make the pants?
 
 The main competitors of the Start Jeans company are the American companies H&M and Macys.
 
